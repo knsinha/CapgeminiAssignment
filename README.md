@@ -41,8 +41,8 @@ The application uses the following rewards system:
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/sinhaneh7080/assignment
-cd newprojectcapegemini
+git clone https://github.com/knsinha/CapgeminiAssignment.git
+cd CapgeminiAssignment
 ```
 
 2. **Install Dependencies**
