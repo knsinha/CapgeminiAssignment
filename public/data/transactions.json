@@ -1,0 +1,396 @@
+{
+  "customers": [
+    {
+      "id": "CUST001",
+      "name": "John Smith",
+      "email": "john.smith@example.com",
+      "joinDate": "2025-12-15"
+    },
+    {
+      "id": "CUST002",
+      "name": "Sarah Johnson",
+      "email": "sarah.johnson@example.com",
+      "joinDate": "2023-02-20"
+    },
+    {
+      "id": "CUST003",
+      "name": "Mike Davis",
+      "email": "mike.davis@example.com",
+      "joinDate": "2023-03-10"
+    },
+    {
+      "id": "CUST004",
+      "name": "Emily Brown",
+      "email": "emily.brown@example.com",
+      "joinDate": "2023-04-05"
+    },
+    {
+      "id": "CUST005",
+      "name": "James Wilson",
+      "email": "james.wilson@example.com",
+      "joinDate": "2023-05-12"
+    },
+    {
+      "id": "CUST006",
+      "name": "Lisa Anderson",
+      "email": "lisa.anderson@example.com",
+      "joinDate": "2023-06-18"
+    },
+    {
+      "id": "CUST007",
+      "name": "Robert Taylor",
+      "email": "robert.taylor@example.com",
+      "joinDate": "2023-07-22"
+    },
+    {
+      "id": "CUST008",
+      "name": "Jennifer Martinez",
+      "email": "jennifer.martinez@example.com",
+      "joinDate": "2023-08-30"
+    },
+    {
+      "id": "CUST009",
+      "name": "David Garcia",
+      "email": "david.garcia@example.com",
+      "joinDate": "2023-09-14"
+    },
+    {
+      "id": "CUST010",
+      "name": "Maria Rodriguez",
+      "email": "maria.rodriguez@example.com",
+      "joinDate": "2023-10-25"
+    },
+    {
+      "id": "CUST011",
+      "name": "Thomas Lee",
+      "email": "thomas.lee@example.com",
+      "joinDate": "2023-11-08"
+    },
+    {
+      "id": "CUST012",
+      "name": "Patricia White",
+      "email": "patricia.white@example.com",
+      "joinDate": "2023-12-02"
+    },
+    {
+      "id": "CUST013",
+      "name": "Charles Harris",
+      "email": "charles.harris@example.com",
+      "joinDate": "2024-01-11"
+    },
+    {
+      "id": "CUST014",
+      "name": "Nancy Clark",
+      "email": "nancy.clark@example.com",
+      "joinDate": "2024-02-15"
+    },
+    {
+      "id": "CUST015",
+      "name": "Christopher Lewis",
+      "email": "christopher.lewis@example.com",
+      "joinDate": "2024-03-20"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "TXN001",
+      "customerId": "CUST001",
+      "amount": 125.50,
+      "date": "2025-10-01"
+    },
+    {
+      "id": "TXN002",
+      "customerId": "CUST001",
+      "amount": 75.25,
+      "date": "2024-10-05"
+    },
+    {
+      "id": "TXN003",
+      "customerId": "CUST001",
+      "amount": 150.00,
+      "date": "2023-10-10"
+    },
+    {
+      "id": "TXN004",
+      "customerId": "CUST001",
+      "amount": 89.99,
+      "date": "2024-01-15"
+    },
+    {
+      "id": "TXN005",
+      "customerId": "CUST001",
+      "amount": 200.00,
+      "date": "2022-02-20"
+    },
+    {
+      "id": "TXN006",
+      "customerId": "CUST001",
+      "amount": 60.00,
+      "date": "2024-11-01"
+    },
+    {
+      "id": "TXN007",
+      "customerId": "CUST001",
+      "amount": 140.75,
+      "date": "2025-11-05"
+    },
+    {
+      "id": "TXN008",
+      "customerId": "CUST001",
+      "amount": 95.50,
+      "date": "2024-08-10"
+    },
+    {
+      "id": "TXN009",
+      "customerId": "CUST001",
+      "amount": 175.00,
+      "date": "2023-09-15"
+    },
+    {
+      "id": "TXN010",
+      "customerId": "CUST001",
+      "amount": 120.25,
+      "date": "2024-05-20"
+    },
+    {
+      "id": "TXN011",
+      "customerId": "CUST001",
+      "amount": 80.00,
+      "date": "2024-12-01"
+    },
+    {
+      "id": "TXN012",
+      "customerId": "CUST001",
+      "amount": 110.50,
+      "date": "2025-03-05"
+    },
+    {
+      "id": "TXN013",
+      "customerId": "CUST001",
+      "amount": 145.75,
+      "date": "2021-12-10"
+    },
+    {
+      "id": "TXN014",
+      "customerId": "CUST002",
+      "amount": 95.00,
+      "date": "2025-10-02"
+    },
+    {
+      "id": "TXN015",
+      "customerId": "CUST002",
+      "amount": 120.00,
+      "date": "2025-06-08"
+    },
+    {
+      "id": "TXN016",
+      "customerId": "CUST002",
+      "amount": 65.50,
+      "date": "2022-10-12"
+    },
+    {
+      "id": "TXN017",
+      "customerId": "CUST002",
+      "amount": 180.00,
+      "date": "2022-07-18"
+    },
+    {
+      "id": "TXN018",
+      "customerId": "CUST002",
+      "amount": 75.00,
+      "date": "2021-11-03"
+    },
+    {
+      "id": "TXN019",
+      "customerId": "CUST002",
+      "amount": 130.25,
+      "date": "2022-11-08"
+    },
+    {
+      "id": "TXN020",
+      "customerId": "CUST002",
+      "amount": 90.75,
+      "date": "2025-11-13"
+    },
+    {
+      "id": "TXN021",
+      "customerId": "CUST002",
+      "amount": 160.00,
+      "date": "2025-04-18"
+    },
+    {
+      "id": "TXN022",
+      "customerId": "CUST002",
+      "amount": 105.50,
+      "date": "2024-01-02"
+    },
+    {
+      "id": "TXN023",
+      "customerId": "CUST003",
+      "amount": 115.00,
+      "date": "2023-10-03"
+    },
+    {
+      "id": "TXN024",
+      "customerId": "CUST003",
+      "amount": 145.75,
+      "date": "2024-10-09"
+    },
+    {
+      "id": "TXN025",
+      "customerId": "CUST003",
+      "amount": 85.25,
+      "date": "2024-06-14"
+    },
+    {
+      "id": "TXN026",
+      "customerId": "CUST003",
+      "amount": 200.00,
+      "date": "2025-01-19"
+    },
+    {
+      "id": "TXN027",
+      "customerId": "CUST003",
+      "amount": 70.00,
+      "date": "2025-02-02"
+    },
+    {
+      "id": "TXN028",
+      "customerId": "CUST003",
+      "amount": 150.50,
+      "date": "2022-11-07"
+    },
+    {
+      "id": "TXN029",
+      "customerId": "CUST003",
+      "amount": 98.75,
+      "date": "2022-02-12"
+    },
+    {
+      "id": "TXN030",
+      "customerId": "CUST003",
+      "amount": 175.00,
+      "date": "2022-03-17"
+    },
+    {
+      "id": "TXN031",
+      "customerId": "CUST004",
+      "amount": 80.00,
+      "date": "2024-10-04"
+    },
+    {
+      "id": "TXN032",
+      "customerId": "CUST004",
+      "amount": 130.00,
+      "date": "2024-10-11"
+    },
+    {
+      "id": "TXN033",
+      "customerId": "CUST004",
+      "amount": 60.50,
+      "date": "2024-10-16"
+    },
+    {
+      "id": "TXN034",
+      "customerId": "CUST004",
+      "amount": 165.00,
+      "date": "2024-10-21"
+    },
+    {
+      "id": "TXN035",
+      "customerId": "CUST004",
+      "amount": 90.25,
+      "date": "2024-11-04"
+    },
+    {
+      "id": "TXN036",
+      "customerId": "CUST004",
+      "amount": 140.00,
+      "date": "2024-11-09"
+    },
+    {
+      "id": "TXN037",
+      "customerId": "CUST005",
+      "amount": 110.00,
+      "date": "2024-10-06"
+    },
+    {
+      "id": "TXN038",
+      "customerId": "CUST005",
+      "amount": 155.50,
+      "date": "2024-10-13"
+    },
+    {
+      "id": "TXN039",
+      "customerId": "CUST005",
+      "amount": 75.75,
+      "date": "2024-10-17"
+    },
+    {
+      "id": "TXN040",
+      "customerId": "CUST005",
+      "amount": 185.00,
+      "date": "2024-10-22"
+    },
+    {
+      "id": "TXN041",
+      "customerId": "CUST006",
+      "amount": 95.00,
+      "date": "2024-10-07"
+    },
+    {
+      "id": "TXN042",
+      "customerId": "CUST006",
+      "amount": 125.25,
+      "date": "2024-10-14"
+    },
+    {
+      "id": "TXN043",
+      "customerId": "CUST007",
+      "amount": 70.00,
+      "date": "2024-10-08"
+    },
+    {
+      "id": "TXN044",
+      "customerId": "CUST007",
+      "amount": 140.00,
+      "date": "2024-10-15"
+    },
+    {
+      "id": "TXN045",
+      "customerId": "CUST008",
+      "amount": 105.50,
+      "date": "2024-10-09"
+    },
+    {
+      "id": "TXN046",
+      "customerId": "CUST008",
+      "amount": 160.75,
+      "date": "2024-10-16"
+    },
+    {
+      "id": "TXN047",
+      "customerId": "CUST009",
+      "amount": 85.00,
+      "date": "2024-10-10"
+    },
+    {
+      "id": "TXN048",
+      "customerId": "CUST009",
+      "amount": 150.00,
+      "date": "2024-10-17"
+    },
+    {
+      "id": "TXN049",
+      "customerId": "CUST010",
+      "amount": 115.50,
+      "date": "2024-10-11"
+    },
+    {
+      "id": "TXN050",
+      "customerId": "CUST010",
+      "amount": 170.00,
+      "date": "2024-10-18"
+    }
+  ]
+}
